@@ -1,4 +1,4 @@
-	/***          HOW TO RUN THE BACK-END WEBSITE ON YOUR PC   *****/
+	/*******  	HOW TO RUN THE BACK-END WEBSITE ON YOUR PC   		*******/
 
 Hello there, This is Rayyan Mirza, your guide to unfold this website and make it run on your computer.
 
@@ -11,11 +11,11 @@ Front-End repository Link:
 Back-End repository Link:
 
 
-/*****************************************************************************************************************************/
+/*******************************************************/
 
-	ESTABLISHING DATABASE AND CONNECTING IT WITH THE BACK-END!
+/*	ESTABLISHING DATABASE AND CONNECTING IT WITH THE BACK-END!		*/
 
-HOW TO CREATE/RESTORE SQL DATA FROM BACK UP FILE USING MICROSOFT SQL SERVER MANAGEMENT STUDIO:
+-----HOW TO CREATE/RESTORE SQL DATA FROM BACK UP FILE USING MICROSOFT SQL SERVER MANAGEMENT STUDIO:--------
 
 1- Open your sql server in 'sql server management studio' and connect your server.
 2- Create a new temporary Database.
@@ -34,7 +34,7 @@ HOW TO CREATE/RESTORE SQL DATA FROM BACK UP FILE USING MICROSOFT SQL SERVER MANA
 15- Small box will appear as "Restore Successfully".
 
 
-HOW TO ESTABLISH SQL CONNECTION BETWEEN BACKEND AND SQL SERVER USING VISUAL STUDIO AND MICROSOFT SQL SERVER MANAGEMENT STUDIO:
+----HOW TO ESTABLISH SQL CONNECTION BETWEEN BACKEND AND SQL SERVER USING VISUAL STUDIO AND MICROSOFT SQL SERVER MANAGEMENT STUDIO:---
 
 1- Open the folder where you downloaded the backend repository.
 2- Open the solution file named as "WebAPI.sln".
@@ -86,9 +86,9 @@ HOW TO ESTABLISH SQL CONNECTION BETWEEN BACKEND AND SQL SERVER USING VISUAL STUD
 
 25- Congrats ,By following the above steps, You just connected your SQL database to the backend.
 
-/******************************************************************************************************************/
+/**************************************************/
 
-HOW TO RUN THE BACK-END:
+-------HOW TO RUN THE BACK-END:--------
 
 1- Locate the green Play button on Visual studio. Left-Click on it to run the Back-end(project).
 2- After few moments, You will see your internet browser pop-up with new window with url as " localhost:53535".
@@ -98,4 +98,4 @@ HOW TO RUN THE BACK-END:
 (Note : Do not close the tab with url as " localhost:53535", even if it shows the message like "Server Error in '/' Application").
 
 	
-/*************		THE END IS ALWAYS NEAR    		************************************************/			
+/*************		THE END IS ALWAYS NEAR    		************************/			
