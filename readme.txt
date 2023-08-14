@@ -1,4 +1,4 @@
-	/*********************          HOW TO RUN THIS WEBSITE ON YOUR PC   ***********************************/
+	/***          HOW TO RUN THE BACK-END WEBSITE ON YOUR PC   *****/
 
 Hello there, This is Rayyan Mirza, your guide to unfold this website and make it run on your computer.
 
@@ -11,7 +11,7 @@ Front-End repository Link:
 Back-End repository Link:
 
 
-/***********************************************************************************************************************************/
+/*****************************************************************************************************************************/
 
 	ESTABLISHING DATABASE AND CONNECTING IT WITH THE BACK-END!
 
@@ -86,7 +86,7 @@ HOW TO ESTABLISH SQL CONNECTION BETWEEN BACKEND AND SQL SERVER USING VISUAL STUD
 
 25- Congrats ,By following the above steps, You just connected your SQL database to the backend.
 
-/**********************************************************************************************************************************/
+/******************************************************************************************************************/
 
 HOW TO RUN THE BACK-END:
 
@@ -97,34 +97,5 @@ HOW TO RUN THE BACK-END:
 4- I assure you that there is no problem till here and your Backend is running successfully. 
 (Note : Do not close the tab with url as " localhost:53535", even if it shows the message like "Server Error in '/' Application").
 
-
-/**********************************************************************************************************************************/ 
-
-HOW TO RUN THE FRONT-END:
-
-1- Open the Front-end folder in Microsoft Visual Studio Code (VS CODE).
-2- Open the terminal by pressing "CTRL + ~" OR Simply Find it Manuely and then Left-Click on it.
-3- After opening the terminal.Copy the text(command) given in below line only:
-		ng serve --open
-4- Paste the above command on the terminal.
-5- Press the 'enter' button on the keyboard.
-6- Now, wait for your internet browser to pop-up with a new window.(if the new window does not pop-up after three to four minutes, go to your internet browser and manualy search :localhost:4200 ).
-7- You will see the website live on url as 'localhost:4200'.
-
-	Now, you can SEE the website and check out the CURD IMPLEMENTATION.
-/**********************************************************************************************************************************/ 
-
-A little insight about the website:
-
-SORTING THE DATA:
-	If you want to sort the data, just click on the title of the table to sort with respect to it.
-
-PAGINATION:
-	On the bottom-right of the page, you can find the pagination buttons.
-
-TABLE'S THEME SWITCHER:
-	Located on the centre.
-
-I believe the other functionalities are easily noticeable.
 	
 /*************		THE END IS ALWAYS NEAR    		************************************************/			
