@@ -1,15 +1,8 @@
 	/*******  	HOW TO RUN THE BACK-END WEBSITE ON YOUR PC   		*******/
 
-Hello there, This is Rayyan Mirza, your guide to unfold this website and make it run on your computer.
+Hello there, This is Rayyan, your guide to unfold this website and make it run on your computer.
 
-First of all Download the repositories from GitHub of Both Back-end and Front-end to a known location in your Computer. 
-The links are given below:
-
-Front-End repository Link:
-
-
-Back-End repository Link:
-
+First  Download the above repository to a known location in your Computer. 
 
 /*******************************************************/
 
